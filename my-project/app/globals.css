@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FAF8F5;
+  color: #2D2D2D;
+  direction: rtl;
+  margin: 0;
+  padding: 0;
+}
+
+/* جلوگیری از خروج و بزرگ‌نمایی بی‌رویه تصاویر */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}

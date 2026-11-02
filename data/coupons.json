@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "code": "LUXE",
+    "type": "percent",
+    "value": 15,
+    "minOrder": 300000,
+    "maxDiscount": 150000,
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "code": "WELCOME",
+    "type": "fixed",
+    "value": 50000,
+    "minOrder": 200000,
+    "isActive": true
+  }
+]

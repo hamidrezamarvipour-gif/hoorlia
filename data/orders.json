@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1792050327053,
+    "fullName": "حمیرو مد،ی ",
+    "phone": "۰۹۱۵۴۳۹۳۴۱۹",
+    "province": "خداسان ",
+    "city": "مشهر",
+    "postalCode": "۹۱۸۸۱۵۴۷۶۸",
+    "address": "جلال ۵۸ پلاک ۱۸۲",
+    "items": [
+      {
+        "id": 1,
+        "name": "محصول نمونه اول",
+        "price": 450000,
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+        "description": "توضیحات کوتاه درباره کیفیت و کارایی این کالا.",
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 450000,
+    "status": "shipped",
+    "createdAt": "2026-10-15T07:45:27.053Z",
+    "trackingCode": "",
+    "updatedAt": "2026-10-19T16:29:33.182Z"
+  }
+]

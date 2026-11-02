@@ -1,0 +1,73 @@
+{
+  "announcement": "✨ جشنواره پاییزه: ارسال رایگان برای سفارش‌های بالای ۵۰۰ هزار تومان | کد تخفیف: LUXE",
+  "siteTitle": "لوکس‌استور",
+  "siteSubtitle": "LUXE & ACCESSIBLE",
+  "heroBannerTitle": "درخشش لوکس، با قیمتی کاملاً اقتصادی!",
+  "heroBannerSubtitle": "منتخب پرطرفدارترین محصولات آرایشی و اکسسوری‌های رنگ ثابت با گارانتی سلامت کالا.",
+  "bannerBadge": "حراج پاییزی",
+  "phoneSupport": "۰۲۱-۹۱۰۰۵۰۰۰",
+  "telegramSupport": "@luxe_support",
+  "instagram": "@luxe_store",
+  "dealHours": 14,
+  "dealMinutes": 35,
+  "storeName": "لوکس‌استور",
+  "storeSubtitle": "LUXE & ACCESSIBLE",
+  "storeLogoLetter": "L",
+  "storeLogoImage": "",
+  "topBarAnnouncement": "✨ جشنواره پاییزه: ارسال رایگان برای سفارش‌های بالای ۵۰۰ هزار تومان | کد تخفیف: LUXE",
+  "banner1Badge": "تخفیف تا ۶۰٪",
+  "banner1Title": "ست‌های لوکس کادویی",
+  "banner1Desc": "زیباترین بسته‌بندی مناسب هدیه با قیمت شگفت‌انگیز.",
+  "banner1BtnText": "مشاهده ست‌ها",
+  "banner1Link": "#deal-box",
+  "banner2Badge": "حراج پاییزی",
+  "banner2Title": "درخشش لوکس، با قیمتی کاملاً اقتصادی!",
+  "banner2Desc": "منتخب پرطرفدارترین محصولات آرایشی و اکسسوری‌های رنگ ثابت با گارانتی سلامت کالا.",
+  "banner2BtnText": "مشاهده محصولات ←",
+  "banner2Link": "#products-section",
+  "sliderBanners": [],
+  "circleCategories": [
+    {
+      "title": "اکسسوری",
+      "icon": "💍",
+      "targetCategory": "طلا و نقره"
+    },
+    {
+      "title": "مراقبت پوست",
+      "icon": "✨",
+      "targetCategory": "مراقبت پوست"
+    },
+    {
+      "title": "آرایش صورت",
+      "icon": "💄",
+      "targetCategory": "آرایشی"
+    },
+    {
+      "title": "عطر و ادکلن",
+      "icon": "🌸",
+      "targetCategory": "عطر و اسپری"
+    },
+    {
+      "title": "مراقبت مو",
+      "icon": "💇‍♀️",
+      "targetCategory": "مراقبت و زیبایی مو"
+    },
+    {
+      "title": "پک‌های هدیه",
+      "icon": "🎁",
+      "targetCategory": "همه"
+    }
+  ],
+  "dealSeconds": 20,
+  "footerAboutTitle": "فروشگاه آنلاین لوکس‌استور",
+  "footerAboutText": "مرجع تخصصی خرید آنلاین اکسسوری‌های رنگ ثابت و محصولات بهداشتی و آرایشی با بالاترین استاندارد کیفیت و قیمت‌های اقتصادی مستقیم.",
+  "footerPhone": "۰۲۱-۹۱۰۰۵۰۰۰",
+  "footerInstagram": "@luxe_store",
+  "footerCopyright": "کلیه حقوق این وبسایت متعلق به فروشگاه لوکس‌استور می‌باشد.",
+  "footerTrustLogos": [],
+  "footerCustomScript": "",
+  "zarinpalMerchantId": "",
+  "snappPayClientId": "",
+  "snappPayClientSecret": "",
+  "activeGateway": "zarinpal"
+}

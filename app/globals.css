@@ -1,0 +1,22 @@
+@import "./fontiran.css";
+
+/* اعمال اجباری فونت روی تمام تگ‌ها، عناصر، دکمه‌ها و فرم‌ها */
+*, body, html, button, input, textarea, select, span, a, h1, h2, h3, h4, h5, h6, p, div {
+  font-family: 'IRANSans', Tahoma, sans-serif !important;
+}
+
+body {
+  background-color: #FAF8F5;
+  color: #2D2D2D;
+  direction: rtl;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+
+/* جلوگیری از به هم ریختگی تصاویر */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
